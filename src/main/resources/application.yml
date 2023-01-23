@@ -1,0 +1,3 @@
+hacker-detector:
+  time: 5
+  maxAttempts: 5
